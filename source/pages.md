@@ -10,8 +10,20 @@ name: "2023"
 entries: autogenerate
 ```
 
-# /2023/sunset (painting)
-![](images/paintings/2023/sunset.jpg)
+# /2023/sunset-2 (painting)
+![](images/paintings/2023/sunset-2.jpg)
+30"  × 30"
+
+# /2023/bus-stop (painting)
+![](images/paintings/2023/bus-stop.jpg)
+44"  × 35"
+
+# /2023/baggage (painting)
+![](images/paintings/2023/baggage.jpg)
+45"  × 36"
+
+# /2023/sunset-1 (painting)
+![](images/paintings/2023/sunset-1.jpg)
 13"  × 13"
 
 # /2023/good-luck (painting)
